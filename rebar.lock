@@ -1,0 +1,4 @@
+[{<<"riak_pb">>,
+  {git,"https://github.com/ivano9/riak_pb",
+       {ref,"00170298313d76a7c125280b53398189066333ea"}},
+  0}].
